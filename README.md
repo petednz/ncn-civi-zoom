@@ -5,6 +5,7 @@ Civirules Conditions/Actions that talk with Zoom developed for NCN.
 
 * PHP v7.0+
 * CiviCRM 5.0+
+* CiviRules
 
 ## Setup
 After installing the extension navigate  to the zoom settings as 'Events->Zoom Settings' and enter the appropriate values to its keys.
